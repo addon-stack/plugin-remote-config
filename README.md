@@ -1,5 +1,14 @@
 # @adnbn/plugin-remote-config
 
+> [!IMPORTANT]
+> **This project has moved**
+>
+> Development and maintenance continue in the [Addon Bone Plugins monorepo](https://github.com/addon-stack/addon-bone-plugins).
+>
+> See [Remote Config](https://github.com/addon-stack/addon-bone-plugins/tree/main/packages/%40adnbn/plugin-remote-config) for the latest source code, documentation, and releases.
+>
+> This repository is archived and read-only. Please submit issues and pull requests to the monorepo. The npm package name remains `@adnbn/plugin-remote-config`.
+
 [![npm version](https://img.shields.io/npm/v/%40adnbn%2Fplugin-remote-config.svg?logo=npm)](https://www.npmjs.com/package/@adnbn/plugin-remote-config)
 [![npm downloads](https://img.shields.io/npm/dm/%40adnbn%2Fplugin-remote-config.svg)](https://www.npmjs.com/package/@adnbn/plugin-remote-config)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
